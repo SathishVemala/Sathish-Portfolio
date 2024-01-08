@@ -21,7 +21,7 @@ Easy customization for personalization.
 Getting Started
 To get started, simply clone this repository to your local machine:
 
-git clone  gh repo clone SathishVemala/Sathish-Portfolio
+git clone gh repo clone SathishVemala/Sathish-Portfolio 
 Usage
 Customize the portfolio to make it your own:
 
