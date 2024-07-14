@@ -1,7 +1,7 @@
 Welcome to my portfolio website! This project showcases my skills, projects, and experience as a Fullstack Developer.
 
 Preview
-You can view the live portfolio here. [Click Here](https://sathishvemala.github.io/Sathish-Portfolio/)
+You can view the live portfolio here. [Click Here](https://sathishvemala.github.io/Sathish-Portfolio_Ignite-Intern/)
 
 Table of Contents
 Introduction
